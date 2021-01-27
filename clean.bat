@@ -1,0 +1,1 @@
+composer du && php artisan clear-compiled && php artisan cache:clear
